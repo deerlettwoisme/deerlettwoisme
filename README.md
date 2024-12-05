@@ -20,11 +20,11 @@
   <!-- profile logo 个人资料徽标 -->
   <div>
     <a href="http://sue.sparkflare.cn" target="_blank"><img src="https://img.shields.io/badge/Website-个人网站-rgb(170, 220, 245)" /></a>&emsp;
-    <a href="https://www.xiaohongshu.com/user/profile/624e74200000000010005b95" target="_blank"><img src="https://img.shields.io/badge/Xiaoghongshu-小红书-rgb(255, 36, 66)" /></a>&emsp;
-    <a href="https://www.yuque.com/u39067637" target="_blank"><img src="https://img.shields.io/badge/Yuque-语雀-rgb(49, 204, 121)" /></a>&emsp;
-    <a href="https://space.bilibili.com/512181208?spm_id_from=333.1007.0.0" target="_blank"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <a href="http://sue.sparkflare.cn/mulu/mulu1.html" target="_blank"><img src="https://img.shields.io/badge/Poems-我写的诗-rgb(225, 224, 199)" /></a>&emsp;
-    <a href="http://www.sparkflare.cn" target="_blank"><img src="https://img.shields.io/badge/Sparkflare-星火-rgb(227, 52, 43)" /></a>&emsp;
+    <a href="https://www.xiaohongshu.com" target="_blank"><img src="https://img.shields.io/badge/Xiaoghongshu-小红书-rgb(255, 36, 66)" /></a>&emsp;
+    <a href="https://www.yuque.com" target="_blank"><img src="https://img.shields.io/badge/Yuque-语雀-rgb(49, 204, 121)" /></a>&emsp;
+    <a href="https://space.bilibili.com" target="_blank"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="http://sue.sparkflare.cn" target="_blank"><img src="https://img.shields.io/badge/Poems-我写的诗-rgb(225, 224, 199)" /></a>&emsp;
+    <a href="http:" target="_blank"><img src="https://img.shields.io/badge/Sparkflare-星火-rgb(227, 52, 43)" /></a>&emsp;
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=buptsdz&label=Views&color=0e75b6&style=flat" alt="访问量统计" />&emsp;
     <!-- wakatime -->
@@ -67,11 +67,11 @@
 ### 🤺 About Me
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/computer.png" />
 
-就读于**北京邮电大学**通信工程英才班，目前大四，已保研至**复旦大学**直博，人工智能方向
+就读于**北京邮电大学**计算机工程英才班，人工智能方向
 
 - 🌱 以后的研究方向是频率方向的**机器学习**和集成学习，例如xgboost和bagging。
 
-- 📚 目前正在学习线性代数和机器学习的基础知识，以及应用常见的机器学习模型解决问题。
+- 📚 目前正在学习机器学习的基础知识，以及应用常见的机器学习模型解决问题。
 
 - 🛠️ 热爱计算机科学和IT互联网🖥️事业，平时自己也做一些**全栈开发**,希望能成为一名优秀的开发者。
 
@@ -91,7 +91,7 @@
 ### 🏢 Study Experience
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/bupt.png"/>
 
-  - [北京邮电大学](https://www.bupt.edu.cn/) &emsp; 📌 2021-09-01 —— Now
+  - [(测试位001)](https://www.bupt.edu.cn/) &emsp; 📌 2021-09-01 —— Now
 
     - 学院：信息与通信工程学院
     - 专业：通信工程
@@ -100,7 +100,7 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/fdu.png" />
 
-  - [复旦大学](https://www.fdu.edu.cn/) &emsp; 📌 2025-09-01 —— 
+  - [(测试位002)](https://www.fdu.edu.cn/) &emsp; 📌 2025-09-01 —— 
 
     - 学院：智能复杂体系基础理论与关键技术实验室
     - 研究方向：机器学习，集成学习，大模型
@@ -172,9 +172,9 @@
     <img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/right.png" />
     <div>&nbsp;</div>
     <!-- metrics -->
-    <img width="150" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/cxyduck.gif"/>
+    <img width="150" src="/assets/images/cxyduck.gif"/>
     <img src="/github-metrics.svg">
-    <img width="150" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/cxyduck.gif">
+    <img width="150" src="/assets/images/cxyduck.gif">
 </div>
 
 ### 🧰 Tools:
