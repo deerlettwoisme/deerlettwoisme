@@ -19,12 +19,12 @@
   
   <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="http://sue.sparkflare.cn" target="_blank"><img src="https://img.shields.io/badge/Website-个人网站-rgb(170, 220, 245)" /></a>&emsp;
+    <a href="https://github.com/deerlettwoisme/" target="_blank"><img src="https://img.shields.io/badge/Website-个人网站-rgb(170, 220, 245)" /></a>&emsp;
     <a href="https://www.xiaohongshu.com" target="_blank"><img src="https://img.shields.io/badge/Xiaoghongshu-小红书-rgb(255, 36, 66)" /></a>&emsp;
     <a href="https://www.yuque.com" target="_blank"><img src="https://img.shields.io/badge/Yuque-语雀-rgb(49, 204, 121)" /></a>&emsp;
     <a href="https://space.bilibili.com" target="_blank"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <a href="http://sue.sparkflare.cn" target="_blank"><img src="https://img.shields.io/badge/Poems-我写的诗-rgb(225, 224, 199)" /></a>&emsp;
-    <a href="http:" target="_blank"><img src="https://img.shields.io/badge/Sparkflare-星火-rgb(227, 52, 43)" /></a>&emsp;
+    <a href="https://github.com/deerlettwoisme/" target="_blank"><img src="https://img.shields.io/badge/Poems-我的图床-rgb(225, 224, 199)" /></a>&emsp;
+    <a href="http:" target="_blank"><img src="https://img.shields.io/badge/Sparkflare-星空-rgb(227, 52, 43)" /></a>&emsp;
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=buptsdz&color=ff69b4" alt="访问量统计" />&emsp;
     <!-- wakatime -->
@@ -58,14 +58,14 @@
 
 <div>&nbsp;</div>
 
-# Hello 👋, here is Sue ~
+# Hello 👋, here is Jiang ~
 
 <table>
 <!-- 个人介绍 -->
 <tr><td>
 
 ### 🤺 About Me
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/computer.png" />
+<img align="right" width="88" src="/assets/images/computer.png" />
 
 就读于**北京邮电大学**计算机工程英才班，人工智能方向
 
@@ -75,11 +75,11 @@
 
 - 🛠️ 热爱计算机科学和IT互联网🖥️事业，平时自己也做一些**全栈开发**,希望能成为一名优秀的开发者。
 
-- ✨ 我在我的语雀文档上分享我的学习和爱好 🔜<a href="https://www.yuque.com/u39067637" target="_blank">语雀·史迪仔</a>
+- ✨ 我在我的语雀文档上分享我的学习和爱好 🔜<a href="https://www.yuque.com" target="_blank">语雀·deerlettwoisme</a>
 
 - 🤔 我是一个终身学习者，对编程、人工智能、数据科学和历史、经济学充满热情。
 
-- 👥 2024年初和朋友创业，是关于数据方向的，现在还在做，有兴趣的朋友可以来看看 <a href="http://www.sparkflare.cn" target="_blank">▶️Sparkflare</a>
+- 👥 2024年，关于数据方向的，现在还在做，有兴趣的朋友可以来看看 <a href="http:" target="_blank">▶️Sparkflare</a>
 
 <p>&emsp;&emsp;Go be a great engineer. We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p
 
@@ -112,7 +112,7 @@
 <tr><td>
 
 ### 🏭 Work Experience
-<img align="right" width="75" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/dianxin.png" />
+<img align="right" width="75" src="assets/images/16.gif" />
 
 - [中国电信人工智能研究院](http://www.chinatelecom.com.cn/) &emsp; 📌 2024-11-25 —— 至今
 
