@@ -89,7 +89,7 @@
 <tr><td>
 
 ### 🏢 Study Experience
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/bupt.png"/>
+<img align="right" width="88" src="/assets/images/32.gif"/>
 
   - [(测试位001)](https://www.bupt.edu.cn/) &emsp; 📌 2021-09-01 —— Now
 
@@ -98,7 +98,7 @@
   
 <div>&nbsp;</div>
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/fdu.png" />
+<img align="right" width="88" src="/assets/images/40.gif" />
 
   - [(测试位002)](https://www.fdu.edu.cn/) &emsp; 📌 2025-09-01 —— 
 
