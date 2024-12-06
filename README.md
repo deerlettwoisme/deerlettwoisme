@@ -65,7 +65,7 @@
 <tr><td>
 
 ### 🤺 About Me
-<img align="right" width="88" src="/assets/images/computer.png" />
+<img align="right" width="88" src="/assets/images/computer.gif" />
 
 就读于**北京邮电大学**计算机工程英才班，人工智能方向
 
