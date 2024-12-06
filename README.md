@@ -12,6 +12,20 @@
     <source media="(prefers-color-scheme: dark)" srcset="assets/images/coding.gif" />
     <source media="(prefers-color-scheme: light)" srcset="assets/images/developer.svg" height="225px" />
     <img src="assets/images/coding.gif" />
+    #烟花测试🎇
+    import { Fireworks } from 'https://esm.run/fireworks-js';
+
+    let container = document.querySelector('.container');
+    let options = 
+    {
+                    gravity: 1.4,
+                    opacity: 0.4,
+                    autoresize: true,
+                    acceleration: 1.00,
+    };
+    let fireworks = new Fireworks(container, options);
+    fireworks.start();
+  #烟花测试🎇_END
   </picture>
 
   <!-- for beauty 留个空行好看点 -->
@@ -139,18 +153,18 @@
 
 <div>&nbsp;</div>
 
-<img align="right" width="75" src="/assets/images/rusheng.png"/>
+<img align="right" width="75" src="/assets/images/33.gif"/>
 
-- [众艺鑫团队](https://mp.weixin.qq.com/s/isj3AT4irFgKDtVh550P4Q) &emsp; 📌 2024-01-16 —— 2024.03.15
+- [测试位](https://mp.weixin.qq.com) &emsp; 📌 2099-01-1 —— 3099.1.1
 
   - 工作岗位：前端开发工程师
   - 工作内容：数字化知识交互学习软件开发，uniapp+vue
 
 <div>&nbsp;</div>
 
-<img align="right" width="75" src="/assets/images/unionswap.png"/>
+<img align="right" width="75" src="/assets/images/37.gif"/>
 
-- [Unionswap](http://www.unionswap.cn/) &emsp; 📌 2023-10-15 —— 2024.4.18
+- [测试位](http://www.unionswap.cn/) &emsp; 📌 2024-8-20 —— ~
 
   - 工作岗位：前端开发实习生
   - 工作内容：海外二手交易平台开发，uniapp+vue
